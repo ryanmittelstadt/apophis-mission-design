@@ -3,7 +3,7 @@ This program walkthrough documents the trajectory optimization and mission desig
 
 ## 1. Project Overview & Motivation
 
-The objective was to apply Lambert’s problem-solving techniques to a high-stakes, real-world scenario: traveling from Earth to Apophis within a specific launch window from early April to early June 2028. This project moves beyond simple 2D orbit theory by building a MATLAB tool capable of processing vast ephemeris data to find a global minimum for fuel consumption ($\Delta V$) and maximize scientific payload delivery.
+The objective was to apply Lambert’s problem-solving techniques to a trajectory from Earth to Apophis within a specific launch window from early April to early June 2028. This project moves beyond simple 2D orbit theory by building a MATLAB script capable of processing vast ephemeris data to find a global minimum for fuel consumption ($\Delta V$) and maximize scientific payload delivery.
 
 ## 2. Implementation of the Lambert Solver
 
