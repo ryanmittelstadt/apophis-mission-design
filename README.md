@@ -35,7 +35,7 @@ The simulation successfully converged on an optimal mission profile that maximiz
 <p align="center">
   <img src="https://i.imgur.com/glMZS23.png" height="80%" width="80%" alt="Apophis Mission Trajectory Plot"/>
   <br />
-  <i>Figure 2: Optimal Interplanetary Transfer Trajectory to Asteroid Apophis</i>
+  <i>Figure 1: Optimal Interplanetary Transfer Trajectory to Asteroid Apophis</i>
 </p>
 
 ### Final Mission Deliverables
