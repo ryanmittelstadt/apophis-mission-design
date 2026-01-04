@@ -1,6 +1,5 @@
-# Technical Walk-through: Interplanetary Intercept of Asteroid 99942 Apophis
-
-This technical walkthrough documents the trajectory optimization and mission design for an interplanetary intercept of the asteroid 99942 Apophis. The analysis identifies the most fuel-efficient launch and arrival windows using high-fidelity orbital data and a custom numerical solver.
+# Description
+This program walkthrough documents the trajectory optimization and mission design for an interplanetary intercept of the asteroid 99942 Apophis. The analysis identifies the most fuel-efficient launch and arrival windows using high-fidelity orbital data and a custom numerical solver.
 
 ## 1. Project Overview & Motivation
 
