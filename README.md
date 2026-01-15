@@ -1,9 +1,9 @@
 # Description
-This program walkthrough documents the trajectory optimization and mission design for an interplanetary intercept of the asteroid 99942 Apophis. The analysis identifies the most fuel-efficient launch and arrival windows using high-fidelity orbital data and a custom numerical solver.
+This program walkthrough documents the trajectory optimization and mission design for an interplanetary intercept of the asteroid 99942 Apophis. This analysis identifies the most fuel-efficient launch and arrival windows using high-fidelity orbital data and a numerical solver.
 
 ## 1. Project Overview & Motivation
 
-The objective was to apply Lambert’s problem-solving techniques to a trajectory from Earth to Apophis within a specific launch window from early April to early June 2028. This project moves beyond simple 2D orbit theory by building a MATLAB script capable of processing vast ephemeris data to find a global minimum for fuel consumption ($\Delta V$) and maximize scientific payload delivery.
+The objective was to apply Lambert’s problem-solving techniques to a trajectory from Earth to Apophis within a specific launch window from early April to early June 2028. This project moves beyond simple 2D orbit by building a MATLAB script capable of processing vast ephemeris data to find a global minimum for fuel consumption ($\Delta V$) and maximize scientific payload delivery.
 
 ## 2. Implementation of the Lambert Solver
 
